@@ -1,0 +1,18 @@
+# General utilities
+numpy
+pillow
+fire
+matplotlib
+
+# PyTorch
+torch
+torchvision
+torchaudio
+
+# Hugging Face libraries
+transformers
+datasets
+evaluate
+
+# Other
+gym[all]
